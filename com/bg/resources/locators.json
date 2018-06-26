@@ -1,0 +1,16 @@
+{
+    "homePage": {
+        "tabReference": {
+            "method": "id",
+            "value": "drop4"
+        },
+        "tabProtractorAPI": {
+            "method": "xpath",
+            "value": "/html/body/nav/div/div[2]/div/ul/li[5]/ul/li[2]/a"
+        },
+        "title": {
+            "method": "id",
+            "value": "title"
+        }
+    }
+}
